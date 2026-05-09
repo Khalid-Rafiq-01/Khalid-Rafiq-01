@@ -21,20 +21,24 @@ I develop encoder--propagator--decoder models that forecast parametric PDE state
 ### ML for fluid mechanics and control
 I use representation learning, clustering, and optimization to analyze and control unsteady fluid flows.
 
-## Selected Projects
+## Selected Research Projects
 
-### Latent Evolution Operator
-State-to-state forecasting framework for parametric PDEs using learned latent evolution operators.
+### Latent Operator Models for Parametric PDE Evolution
 
-### Latent Flow Matching for Turbulence
-Spectrally regularized latent generative modeling framework for Navier-Stokes turbulence generation.
+I develop state-to-state latent operator models for transient PDEs. These models forecast future physical fields from arbitrary intermediate states, physical parameters, and forecast horizons.
 
-### Latent Flow Control
-Cluster-based latent-space control of unsteady fluid flows using VAE embeddings, k-means regimes, and RBF feedback policies.
+- [Latent Evolution Operator (LEO)](https://github.com/Khalid-Rafiq-01/Latent-Evolution-Operator-LEO-) — state-to-state forecasting framework for parametric PDEs.
+- [ConvLEO](https://github.com/Khalid-Rafiq-01/ConvLEO) — wind-conditioned plume forecasting from one observation and a user-specified time jump.
 
-## Tools
-Python, PyTorch, NumPy, SciPy, Matplotlib, Weights & Biases, MATLAB, CFD, generative modeling, operator learning.
+### Deep Generative Models for Physical Systems
 
-## Links
-- [Google Scholar](https://scholar.google.com/citations?user=uyQ384AAAAAJ&hl=en)
-- [GitHub](https://github.com/Khalid-Rafiq-01)
+I study diffusion models, flow matching, and latent generative models for scientific and physical fields.
+
+- [DDPM vs Flow Matching on MNIST](https://github.com/Khalid-Rafiq-01/diffusion-vs-flow-matching-mnist) — controlled comparison of diffusion and flow matching using identical U-Net backbones.
+- Spectrally regularized latent flow matching for turbulence generation — under review.
+
+### Latent Control of High-Dimensional Dynamical Systems
+
+I use representation learning, clustering, and optimization to design low-dimensional feedback policies for high-dimensional fluid systems.
+
+- Latent cluster-based flow control — coming soon.
