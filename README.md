@@ -32,9 +32,6 @@ Spectrally regularized latent generative modeling framework for Navier--Stokes t
 ### Latent Flow Control
 Cluster-based latent-space control of unsteady fluid flows using VAE embeddings, k-means regimes, and RBF feedback policies.
 
-### Diffusion vs Flow Matching on MNIST
-A controlled comparison of DDPM and Conditional Flow Matching using identical U-Net architectures. The project studies sampling trajectories, kinetic energy, and few-step generation behavior.
-
 ## Tools
 Python, PyTorch, NumPy, SciPy, Matplotlib, Weights & Biases, MATLAB, CFD, generative modeling, operator learning.
 
