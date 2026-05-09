@@ -27,7 +27,7 @@ I use representation learning, clustering, and optimization to analyze and contr
 State-to-state forecasting framework for parametric PDEs using learned latent evolution operators.
 
 ### Latent Flow Matching for Turbulence
-Spectrally regularized latent generative modeling framework for Navier--Stokes turbulence generation.
+Spectrally regularized latent generative modeling framework for Navier-Stokes turbulence generation.
 
 ### Latent Flow Control
 Cluster-based latent-space control of unsteady fluid flows using VAE embeddings, k-means regimes, and RBF feedback policies.
