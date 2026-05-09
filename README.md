@@ -1,22 +1,52 @@
-<h1 align="center">Hi 👋, I'm Khalid</h1>
-<h3 align="center">I work on the intersection of Machine Learning and Fluid Mechanics</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3658786/screenshots/15044136/media/20e5d07fc46a102a86bffc6b574ae068.gif">
+# Hi, I'm Khalid Rafiq 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-rafiq-01&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-rafiq-01" /> </p>
+I am a PhD student in Mechanical Engineering at the University of Nevada, Reno, working at the intersection of **machine learning, fluid dynamics, and scientific computing**.
 
-- 🔭 I’m currently working on **Cluster based**
+My research focuses on generative models and data-driven surrogates for complex physical systems, including:
 
-- 🌱 I’m currently learning **Dynamical Systems and Deep Learning**
+- Latent diffusion and flow matching for turbulent flow generation
+- Spectrally regularized representation learning for multiscale physical fields
+- Latent evolution operators for fast state-to-state PDE forecasting
+- Wind-conditioned surrogate modeling for plume evolution and environmental risk assessment
+- Latent-space control of unsteady fluid flows
 
-- 📫 How to reach me **khalidrafiqhere@gmail.com**
+## Current Research Themes
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### Generative modeling for physical systems
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I study how diffusion models, flow matching, and latent generative models can be used to generate physically meaningful turbulent and geophysical fields.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-rafiq-01&show_icons=true&locale=en&layout=compact" alt="khalid-rafiq-01" /></p>
+### Latent operators for PDE forecasting
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-rafiq-01&show_icons=true&locale=en" alt="khalid-rafiq-01" /></p>
+I develop encoder--propagator--decoder models that forecast parametric PDE states across variable time horizons in a single evaluation.
+
+### ML for fluid mechanics and control
+
+I use representation learning, clustering, and optimization to analyze and control unsteady fluid flows.
+
+## Selected Projects
+
+### Latent Evolution Operator
+
+State-to-state forecasting framework for parametric PDEs using learned latent evolution operators.
+
+### Latent Flow Matching for Turbulence
+
+Spectrally regularized latent generative modeling framework for Navier--Stokes turbulence generation.
+
+### Latent Flow Control
+
+Cluster-based latent-space control of unsteady fluid flows using VAE embeddings, k-means regimes, and RBF feedback policies.
+
+### Diffusion vs Flow Matching on MNIST
+
+A controlled comparison of DDPM and Conditional Flow Matching using identical U-Net architectures. The project studies sampling trajectories, kinetic energy, and few-step generation behavior.
+
+## Tools
+
+Python, PyTorch, NumPy, SciPy, Matplotlib, Weights & Biases, MATLAB, CFD, generative modeling, operator learning.
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=uyQ384AAAAAJ&hl=en)
+- [GitHub](https://github.com/Khalid-Rafiq-01)
