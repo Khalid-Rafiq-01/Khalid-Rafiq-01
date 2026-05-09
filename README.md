@@ -13,40 +13,31 @@ My research focuses on generative models and data-driven surrogates for complex 
 ## Current Research Themes
 
 ### Generative modeling for physical systems
-
-I study how diffusion models, flow matching, and latent generative models can be used to generate physically meaningful turbulent and geophysical fields.
+I study how diffusion models, flow matching, and latent generative models can be used to generate physically meaningful turbulent flowfields.
 
 ### Latent operators for PDE forecasting
-
 I develop encoder--propagator--decoder models that forecast parametric PDE states across variable time horizons in a single evaluation.
 
 ### ML for fluid mechanics and control
-
 I use representation learning, clustering, and optimization to analyze and control unsteady fluid flows.
 
 ## Selected Projects
 
 ### Latent Evolution Operator
-
 State-to-state forecasting framework for parametric PDEs using learned latent evolution operators.
 
 ### Latent Flow Matching for Turbulence
-
 Spectrally regularized latent generative modeling framework for Navier--Stokes turbulence generation.
 
 ### Latent Flow Control
-
 Cluster-based latent-space control of unsteady fluid flows using VAE embeddings, k-means regimes, and RBF feedback policies.
 
 ### Diffusion vs Flow Matching on MNIST
-
 A controlled comparison of DDPM and Conditional Flow Matching using identical U-Net architectures. The project studies sampling trajectories, kinetic energy, and few-step generation behavior.
 
 ## Tools
-
 Python, PyTorch, NumPy, SciPy, Matplotlib, Weights & Biases, MATLAB, CFD, generative modeling, operator learning.
 
 ## Links
-
 - [Google Scholar](https://scholar.google.com/citations?user=uyQ384AAAAAJ&hl=en)
 - [GitHub](https://github.com/Khalid-Rafiq-01)
