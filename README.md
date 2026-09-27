@@ -40,7 +40,7 @@ State-to-state latent surrogate models for transient parametric PDEs.
 Generative modeling and representation learning for scientific data.
 
 - [DDPM vs Flow Matching on MNIST](https://github.com/Khalid-Rafiq-01/diffusion-vs-flow-matching-mnist) — controlled comparison of diffusion and flow matching using identical U-Net backbones.
-- Spectrally regularized latent flow matching for turbulence generation — under review.
+- [Spectrally Regularized Latent Flow Matching](https://github.com/Khalid-Rafiq-01/spectrally-regularized-turb-gen) — zone-weighted log-spectral compression that recovers the dissipation-range scales MSE suppresses, carried through to unconditional turbulence generation. *AI4Physics @ ICML 2026.*
 
 ### Latent Control of High-Dimensional Dynamical Systems
 
